@@ -4,7 +4,7 @@ liquid_crystals/anchor.pdf
 •	N. V. Priezjev, G. Skacej, R. A. Pelcovits, and S. Zumer, “External and intrinsic anchoring in nematic liquid crystals: A Monte Carlo study”, Physical Review E 68, 041709 (2003). https://doi.org/10.1103/PhysRevE.68.041709
 
 liquid_crystals/biaxial_nematics.pdf
-•	N. V. Priezjev and R. A. Pelcovits, “Coarsening dynamics of biaxial nematic liquid crystals”, Physical Review E 66, 051705 (2002). https://doi.org/10.1103/PhysRevE.66.051705
+•	N. V. Priezjev and R. A. Pelcovits, “Coarsening dynamics of biaxial nematic liquid crystals”, Physical Review E 66, 051705 (2002). https://doi.org/10.1103/PhysRevE.66.051705  https://sites.google.com/view/nikolai-priezjev/papers/biaxial-nematics
 
 liquid_crystals/cluster.pdf
 •	N. V. Priezjev and R. A. Pelcovits, “Cluster Monte Carlo simulations of the nematic-isotropic phase transition”, Physical Review E 63, 062702 (2001). https://doi.org/10.1103/PhysRevE.63.062702
