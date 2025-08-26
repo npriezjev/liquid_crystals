@@ -22,4 +22,8 @@ liquid_crystals/virtual.pdf
 •	P. A. Kossyrev, J. Qi, N. V. Priezjev, R. A. Pelcovits, and G. P. Crawford, “Virtual surfaces, director domains and the Fréedericksz transition in polymer stabilized nematic liquid crystals”, Applied Physics Letters 81, 2986 (2002). https://doi.org/10.1063/1.1515136
 
 liquid_crystals/PhD_THESIS_2002.pdf
-•	PhD thesis title: “Simulations of nematic liquid crystals: Confined geometries, phase transitions and topological defects”. Brown University 2002.
+•	PhD thesis title: “Simulations of nematic liquid crystals: Confined geometries, phase transitions and topological defects”. Brown University, 2002.
+
+liquid_crystals/Disclination_Loops_Nematics.pdf
+•	N. V. Priezjev, “Disclination loop critical behavior in nematic liquid crystals”, Brown University, 2002.
+
