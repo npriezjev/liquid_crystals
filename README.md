@@ -12,7 +12,7 @@ N. V. Priezjev and R. A. Pelcovits, “Cluster Monte Carlo simulations of the ne
 liquid_crystals/cylinder.pdf
 N. V. Priezjev and R. A. Pelcovits, “Surface extrapolation length and director structures in confined nematics”, Physical Review E 62, 6734 (2000). https://doi.org/10.1103/PhysRevE.62.6734
 
-liquid_crystals/loops.pdf  
+liquid_crystals/loops.pdf 
 N. V. Priezjev and R. A. Pelcovits, “Disclination loop behavior near the nematic-isotropic phase transition”, Physical Review E 64, 031710 (2001). https://doi.org/10.1103/PhysRevE.64.031710
 
 liquid_crystals/stretched.pdf 
