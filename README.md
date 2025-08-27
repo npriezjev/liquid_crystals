@@ -1,4 +1,4 @@
-# liquid_crystals publucations from PhD research:
+# liquid crystals publucations from PhD research:
 
 •	anchor.pdf
 •	N. V. Priezjev, G. Skacej, R. A. Pelcovits, and S. Zumer, “External and intrinsic anchoring in nematic liquid crystals: A Monte Carlo study”, Physical Review E 68, 041709 (2003). https://doi.org/10.1103/PhysRevE.68.041709
